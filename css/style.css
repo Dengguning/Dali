@@ -915,6 +915,7 @@ main.animatie {
     
     articel.texblokr {
         width: 50vw;
+        padding: 20px 80px;
     }
     
     .leftimg {
@@ -924,6 +925,7 @@ main.animatie {
     
     articel.texblokl {
         width: 50vw;
+        padding: 20px 80px;
     }
     
     section.under {
@@ -936,7 +938,7 @@ main.animatie {
     }
     /*-------contact---------*/
     #inform {
-        width: 50vw;
+        width: 100%;
     }
     #gmap {
         width: 50vw;
