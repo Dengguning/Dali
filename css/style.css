@@ -392,14 +392,14 @@ section {
     object-fit: contain;
 }
 
-articel.texblokr {
+article.texblokr {
     width: 100vw;
     padding: 20px;
     background: #f2f5f8;
     color: #333;
 }
 
-articel.texblokl{
+article.texblokl{
     width: 100vw;
     padding: 20px;
     background: #fff;
@@ -913,7 +913,7 @@ main.animatie {
         font-size: 36px;
     }
     
-    articel.texblokr {
+    article.texblokr {
         width: 50vw;
         padding: 20px 80px;
     }
@@ -923,7 +923,7 @@ main.animatie {
         flex-direction: row-reverse;
     }
     
-    articel.texblokl {
+    article.texblokl {
         width: 50vw;
         padding: 20px 80px;
     }
