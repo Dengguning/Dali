@@ -1,2 +1,2 @@
 # Dali
-The description of Dali
+About the project, see more information in Dali.wiki of the repositories.
