@@ -5,7 +5,7 @@ The project is used to realise the following goals:
 * to experiment new design of interface.
 * to create a css animation that is inspired a work of Salvador Dali.
 
-<https://dengguning.github.io/Dali/>
+[Link to the project](https://dengguning.github.io/Dali/ "Salvador Dali")
 
 ### The style
 The site is designed minimalism, not only in UI, but also in structure and action. The structure is Flat structure. Action-User clicks once and links to the final goal. 
