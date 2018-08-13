@@ -1,7 +1,7 @@
 ## About the project
 
 The project is used to realise the following goals:
-* to build a responsive site by css flex layout.
+* to build a responsive site by css Flex layout.
 * to experiment new design of interface.
 * to create a css animation that is inspired a work of Salvador Dali.
 
