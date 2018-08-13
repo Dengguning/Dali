@@ -14,12 +14,10 @@ The site is designed minimalism, not only in UI, but also in structure and actio
 ### Conpect of UI design
 
 ![Conpect of UI design](https://raw.githubusercontent.com/wiki/Dengguning/Dali/images/dali_UI_01.jpg)
-[Dali.wiki](images/dali_UI_01.jpg)
-Created by Guning Deng.
+Designed by Guning Deng.
 Tool: Photoshop.
 
 Create the icons and animation
 ![Icons and Animation](https://raw.githubusercontent.com/wiki/Dengguning/Dali/images/dali_icons.jpg)
-[Dali.wiki](images/dali_icons.jpg)
-Created by Guning Deng.
+Designed by Guning Deng.
 Tool: Photoshop.
